@@ -6,7 +6,8 @@
   - [Virtualizing a network in Linux (Demo)](https://itrichardrance.com/wp-content/uploads/2020/11/Linux-Admin.webm)
 - <b>Pentesting and Vulnerability Assessment</b>
   - [Pentest and Vulnerability Assessment (Demo)](https://itrichardrance.com/wp-content/uploads/2020/11/zoom-final-procjectC.mp4) <b><i>(Potentially NSFW)</b></i>
-
+- <b>Python Port Scanner</b>
+  - [Port Scanner (Python)](https://github.com/richardrance/portfolio)
 
 
 <h2>📺 YouTube Videos</h2>
