@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Virtualization</b>
-  - [Virtualizing a network in Linux (Demo)](https://itrichardrance.com/wp-content/uploads/2020/11/Linux-Admin.webm)
+  - [Virtualizing a Linux Network (Demo)](https://itrichardrance.com/wp-content/uploads/2020/11/Linux-Admin.webm)
 - <b>Pentesting and Vulnerability Assessment</b>
   - [Pentest and Vulnerability Assessment (Demo)](https://itrichardrance.com/wp-content/uploads/2020/11/zoom-final-procjectC.mp4) <b><i>(Potentially NSFW)</b></i>
 - <b>Python Port Scanner</b>
